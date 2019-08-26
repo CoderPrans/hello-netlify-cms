@@ -1,6 +1,6 @@
 backend: 
     name: github
-    repo: coderprans/hello-netlfiy-cms
+    repo: coderprans/hello-netlify-cms
 media_folder: static/assets
 public_folder: assets
 collections:
